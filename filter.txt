@@ -1,0 +1,186 @@
+! 2021-12-07 https://www.moneycontrol.com
+www.moneycontrol.com##.i-amphtml-next-page-document-container
+
+! 2021-12-07 https://www.financialexpress.com
+www.financialexpress.com##.i-amphtml-unresolved
+
+! 2021-12-07 https://www.timesnownews.com
+www.timesnownews.com##._share_social
+www.timesnownews.com##._tn_audio_bt
+www.timesnownews.com##.amp_next_article
+www.timesnownews.com##.amp_prev_article
+www.timesnownews.com###upnextContainer
+www.timesnownews.com###amp-btf-aslot-1
+www.timesnownews.com###amp-btf-aslot-2
+
+! 2021-12-07 https://m.rediff.com
+m.rediff.com##.artiprevnextcont
+
+! 2021-12-07 https://indianexpress.com
+indianexpress.com##.js-btm-nav
+indianexpress.com##.i-amphtml-unresolved
+
+! 2021-12-07 https://www.carandbike.com
+www.carandbike.com##.page__ad
+
+! 2021-12-07 https://m.timesofindia.com
+m.timesofindia.com###amp_float_whtsapp
+m.timesofindia.com###scrollToTopButton
+
+! 2021-12-07 https://m.economictimes.com
+m.economictimes.com###appinstall_bnr
+m.economictimes.com##.i-amphtml-next-page-shadow-root
+m.economictimes.com##.i-amphtml-next-page-document-container
+
+! 2021-12-07 https://m.jagranjosh.com
+m.jagranjosh.com###sticky-footer-g
+
+! 2021-12-07 https://www.news18.com
+www.news18.com##.jio_widgetAmp
+www.news18.com##.i-amphtml-next-page-shadow-root
+www.news18.com##.article_main.jsx-2796343084.jsx-1948468987 > div.jsx-2796343084.jsx-1948468987 > span.jsx-2796343084.jsx-1948468987
+
+! 2021-12-08 https://sports.ndtv.com
+sports.ndtv.com##.back-to-top
+
+! 2021-12-07 https://www.carandbike.com
+www.carandbike.com##.page__adinner
+
+! 2021-12-07 https://indianexpress.com
+indianexpress.com##.top-ads-amp
+indianexpress.com##.js-btm-nav
+
+! 2021-12-07 https://www.financialexpress.com
+www.financialexpress.com##.js-btm-nav
+
+! 2021-12-07 https://m.timesofindia.com
+m.timesofindia.com##.scroll_bottom
+m.timesofindia.com##.menu_bottom
+m.timesofindia.com##.i-amphtml-next-page-shadow-root
+m.timesofindia.com##.nxt-as-sprtr
+
+! 2021-12-07 https://www.moneycontrol.com
+www.moneycontrol.com##.i-amphtml-next-page-shadow-root
+www.moneycontrol.com##.i-amphtml-next-page
+
+! 2021-12-07 https://m.economictimes.com
+m.economictimes.com###appinstall_bnr
+m.economictimes.com##.i-amphtml-next-page-shadow-root
+m.economictimes.com##.amp-next-page-sample-separator
+m.economictimes.com##.amazon_affi
+
+! 2021-12-07 https://m.jagranjosh.com
+m.jagranjosh.com###sticky-footer-g
+m.jagranjosh.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element
+
+! 2021-12-07 https://m.rediff.com
+m.rediff.com##.artiprevnextcont
+
+! 2021-12-07 https://www.livemint.com
+www.livemint.com##.i-amphtml-next-page
+
+! 2021-12-07 https://www.ndtv.com
+www.ndtv.com##.js-back-to-top
+www.ndtv.com##.tbl-floating-unit
+
+! 2021-12-07 https://m.timesofindia.com
+m.timesofindia.com###contentblocker
+m.timesofindia.com##.social-sticky
+
+! 2021-12-07 https://www.news18.com
+www.news18.com##.newftrshare_fixed
+www.news18.com##.article_main.jsx-2796343084.jsx-1948468987 > div.jsx-2796343084.jsx-1948468987 > span.jsx-2796343084.jsx-1948468987
+www.news18.com##.jio_widgetAmp
+www.news18.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-07 https://m.timesofindia.com
+m.timesofindia.com###amp_float_whtsapp
+m.timesofindia.com###scrollToTopButton
+
+! 2021-12-07 https://www.cnbctv18.com
+www.cnbctv18.com##.flying-carpet-ad
+www.cnbctv18.com##.ad_cntainer
+www.cnbctv18.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-07 https://www.espncricinfo.com
+www.espncricinfo.com##.i-amphtml-unresolved
+
+! 2021-12-07 https://www.timesnownews.com
+www.timesnownews.com##._share_social
+www.timesnownews.com##._tn_audio_bt
+www.timesnownews.com##.amp_next_article
+www.timesnownews.com##.amp_prev_article
+www.timesnownews.com###upnextContainer
+www.timesnownews.com###amp-btf-aslot-1
+www.timesnownews.com###amp-btf-aslot-2
+
+! 2021-12-08 https://support.mozilla.org
+support.mozilla.org###id_scam_alert
+
+! 2021-12-08 https://m.timesofindia.com
+m.timesofindia.com##._g_in
+m.timesofindia.com##.amp-next-page-sample-separator
+
+! 2021-12-08 https://auto.hindustantimes.com
+auto.hindustantimes.com##.adHolder
+auto.hindustantimes.com###scrollToTopButton
+auto.hindustantimes.com##.i-amphtml-next-page
+
+! 2021-12-08 https://zeenews.india.com
+zeenews.india.com##.share_article
+zeenews.india.com##.fixed-footer
+
+! 2021-12-08 https://www.google.com
+www.google.com##.LXauYe
+
+
+! 2021-12-08 https://www.gadgetsnow.com
+www.gadgetsnow.com##.aff_iframe
+www.gadgetsnow.com##.TrMNX._1Y9Dp._1Vlnk
+www.gadgetsnow.com##.i-amphtml-next-page-shadow-root
+www.gadgetsnow.com##._2JSRz
+
+! 2021-12-08 https://www.latimes.com
+www.latimes.com##.dss-toaster
+
+! 2021-12-09 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###amp_float_whtsapp
+timesofindia.indiatimes.com##.botopenapp
+timesofindia.indiatimes.com##.clsplaceholder
+
+! 2021-12-09 https://www.espncricinfo.com
+www.espncricinfo.com##.i-amphtml-layout-responsive
+
+! 2021-12-09 https://indianexpress.com
+indianexpress.com##.iframe-lazy
+
+! 2021-12-09 https://pstet.net
+pstet.net##.code-block
+
+! 2021-12-09 https://www.google.com
+www.google.com##.SfSHIf
+
+! 2021-12-09 https://entrackr.com
+entrackr.com##.elementor-widget-spacer
+
+! 2021-12-09 https://auto.hindustantimes.com
+auto.hindustantimes.com##.mainArea > div > .i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+auto.hindustantimes.com##body > div > .i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+
+! 2021-12-09 https://www.zoomtventertainment.com
+www.zoomtventertainment.com##.adv-blocker
+www.zoomtventertainment.com##.Layout-atfAd-VBh-h
+www.zoomtventertainment.com##.amp-social-share-system
+
+! 2021-12-09 https://www.indiatoday.in
+www.indiatoday.in##.whatsapp_share
+www.indiatoday.in##.rhs-fixwhtsapp.desktop-hide
+www.indiatoday.in##.goToTopIcon
+www.indiatoday.in##.showGototop.goToTop
+
+! 2021-12-09 https://www.news18.com
+www.news18.com##.OUTBRAIN
+
+! 2021-12-09 https://moviesverse.cc
+moviesverse.cc##.topad
+

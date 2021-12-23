@@ -1,0 +1,151 @@
+! 2021-12-18 https://www.google.com
+www.google.com##.FSIemd
+
+! 2021-12-18 https://www.thebetterindia.com
+www.thebetterindia.com##.adp-post-ad-item
+www.thebetterindia.com##.amp-notsupported
+
+! 2021-12-18 https://m.timesofindia.com
+m.timesofindia.com##.scroll_bottom
+m.timesofindia.com###related_stories_widget
+m.timesofindia.com##._g_in._g
+m.timesofindia.com##.i-amphtml-built.i-amphtml-next-page
+
+! 2021-12-18 https://madrascourier.com
+madrascourier.com##.slide-dock-on.slide-dock
+
+! 2021-12-18 https://www.news18.com
+www.news18.com##.article_main.jsx-1208041933.jsx-1948468987 > div.jsx-1208041933.jsx-1948468987 > span.jsx-1208041933.jsx-1948468987
+www.news18.com##.newftrshare_in
+www.news18.com##.jio_widgetAmp
+www.news18.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-18 https://www.ndtv.com
+www.ndtv.com###jiosawan
+www.ndtv.com##.pt-0.head-story__wrp
+www.ndtv.com##.js-bkt-out.js-back-to-top.back-to-top
+
+! 2021-12-18 https://www.timesnownews.com
+www.timesnownews.com##._share_social
+www.timesnownews.com##._tn_audio_bt
+www.timesnownews.com##.amp_next_article
+www.timesnownews.com##.amp_prev_article
+www.timesnownews.com###upnextContainer
+
+! 2021-12-18 https://m.timesofindia.com
+m.timesofindia.com##.menu_bottom
+
+! 2021-12-18 https://www.gadgetsnow.com
+www.gadgetsnow.com##._1K0SJ._2AICs._3qUot
+www.gadgetsnow.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-18 https://www.hindustantimes.com
+www.hindustantimes.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-18 https://m.timesofindia.com
+m.timesofindia.com###amp_float_whtsapp
+m.timesofindia.com###scrollToTopButton
+
+! 2021-12-18 https://m.economictimes.com
+m.economictimes.com###appinstall_bnr
+m.economictimes.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-18 https://indianexpress.com
+indianexpress.com##.top-ads-amp
+
+! 2021-12-18 https://www.filmibeat.com
+www.filmibeat.com##amp-iframe
+
+! 2021-12-18 https://theprint.in
+theprint.in##.mybotUnibots
+theprint.in##.td-post-sharing-top
+
+! 2021-12-18 https://www.carandbike.com
+www.carandbike.com##.page__ad
+
+! 2021-12-18 https://www.moneycontrol.com
+www.moneycontrol.com##.i-amphtml-next-page-shadow-root
+www.moneycontrol.com##.amp-next-page-separator
+
+! 2021-12-18 https://www.thehindu.com
+www.thehindu.com##.clear > center > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.thehindu.com##section > center > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.thehindu.com##.marginLR > center > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.thehindu.com###vuukle_comment > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.thehindu.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+
+! 2021-12-18 https://moviesverse.me
+moviesverse.me##.topad
+
+! 2021-12-18 https://community.brave.com
+community.brave.com###banner
+
+! 2021-12-19 https://indianexpress.com
+indianexpress.com##.l-container
+indianexpress.com##.iframe-lazy
+
+! 2021-12-19 https://theprint.in
+theprint.in##.adsAMP
+
+! 2021-12-19 https://developer.mozilla.org
+developer.mozilla.org##.mdn-cta-container
+
+! 2021-12-19 https://www.koimoi.com
+www.koimoi.com##.i-amphtml-unresolved
+
+! 2021-12-19 https://www.indiatoday.in
+www.indiatoday.in##.story-social-share-fix
+
+! 2021-12-19 https://www.cnbctv18.com
+www.cnbctv18.com##.ad_cntainer
+www.cnbctv18.com##.i-amphtml-next-page-shadow-root
+
+! 2021-12-19 https://www.gadgetsnow.com
+www.gadgetsnow.com##._g_in._g
+
+! 2021-12-19 https://addons.mozilla.org
+addons.mozilla.org##.Notice-dismissible.GetFirefoxBanner.Notice-warning.Notice
+
+! 2021-12-21 https://m.tribuneindia.com
+m.tribuneindia.com##.ad-img2
+
+! 2021-12-21 https://www.news18.com
+www.news18.com##.LiveBlog_outer.jsx-2315133418 > div.jsx-2315133418 > span.jsx-2315133418
+www.news18.com##div.jsx-2315133418:nth-of-type(3)
+
+! 2021-12-21 https://www.thehindu.com
+www.thehindu.com##.back-top
+
+! 2021-12-21 https://www.thebetterindia.com
+www.thebetterindia.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-intrinsic.amp-wp-012333e.amp-wp-enforced-sizes.amp-wp-unknown-height.amp-wp-unknown-width.amp-wp-unknown-size > .i-amphtml-replaced-content.i-amphtml-fill-content
+www.thebetterindia.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-intrinsic.amp-wp-012333e.amp-wp-enforced-sizes.amp-wp-unknown-height.amp-wp-unknown-width.amp-wp-unknown-size > .i-amphtml-sizer > .i-amphtml-intrinsic-sizer
+
+! 2021-12-21 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###amp_float_whtsapp
+timesofindia.indiatimes.com##.i-amphtml-next-page
+
+! 2021-12-21 https://www.ndtv.com
+www.ndtv.com##.in-viewport.tbl-next-up-mobile-position-bottom.tbl-next-up.tbl-floating-unit
+
+! 2021-12-22 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##._3ZXi-._20-Fx
+timesofindia.indiatimes.com##._20-Fx
+timesofindia.indiatimes.com##.CLSPlaceholder
+
+! 2021-12-22 https://tech.hindustantimes.com
+tech.hindustantimes.com##.mb20.ampAds
+
+! 2021-12-22 https://www.bgr.in
+www.bgr.in##.ads-fixed
+www.bgr.in##.footerNav-add
+
+! 2021-12-22 https://www.ndtv.com
+||view.adjust.net.in/$image
+
+! 2021-12-22 https://sports.ndtv.com
+sports.ndtv.com##.order-2.vjl-md-12.vjl-lg-12
+sports.ndtv.com##.tbl-ad-mid-wrp
+
+! 2021-12-23 https://www.theverge.com
+www.theverge.com##.tab-bar-fixed.c-tab-bar
+

@@ -1,11 +1,6 @@
-! 2021-12-26 https://www.indiatoday.in
 www.indiatoday.in##.story-social-share-fix
 www.indiatoday.in##.amp-izooto-sub
-
-! 2021-12-26 https://www.thehindu.com
 www.thehindu.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://indianexpress.com
 indianexpress.com##.breaking-scrollbx
 indianexpress.com##.js-btm-nav
 indianexpress.com##.i-amphtml-unresolved
@@ -13,140 +8,66 @@ indianexpress.com##.top-ads-mobile
 indianexpress.com##.pop_up_box
 indianexpress.com##.app-btn__link
 indianexpress.com##.iframe-lazy
-
-! 2021-12-26 https://amp.scroll.in
 amp.scroll.in##.amp-ad-wrapper
-
-! 2021-12-26 https://www.espncricinfo.com
 www.espncricinfo.com##.Ad__Wrapper
 www.espncricinfo.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://www.thebetterindia.com
 www.thebetterindia.com##.adp-post-ad-item.adp-wrapper
-
-! 2021-12-26 https://m.timesofindia.com
 m.timesofindia.com##.location_detect_boxn1
 m.timesofindia.com##.floatingwhtsappicon
 m.timesofindia.com##.topadCLSPlaceholder
-
-! 2021-12-26 https://www.deccanherald.com
 www.deccanherald.com##.mtop-m-20.section-container
 www.deccanherald.com##.amp-ad
-
-! 2021-12-26 https://www.gqindia.com
 www.gqindia.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://www.ndtv.com
 www.ndtv.com##.story_ft-nav
-
-! 2021-12-26 https://www.analyticsinsight.net
 www.analyticsinsight.net##.mfp-content
 www.analyticsinsight.net##.mfp-ready.mfp-auto-cursor.mfp-wrap
 www.analyticsinsight.net##.mfp-ready.mfp-bg
-
-! 2021-12-26 https://www.designboom.com
 www.designboom.com###db-cookie-notice
 www.designboom.com##.open.nlbox-popup-wrapper
-
-! 2021-12-26 https://m.economictimes.com
 m.economictimes.com###appinstall_bnr
 m.economictimes.com###floatingAppButton
-
-! 2021-12-26 https://www.dkoding.in
 www.dkoding.in##.mrf-collapseFooter
-
-! 2021-12-26 https://zeenews.india.com
 zeenews.india.com###warning-message
 zeenews.india.com##.subscribe
 zeenews.india.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://www.ndtv.com
 www.ndtv.com###___ndtvpushdiv
 www.ndtv.com##.tbl-floating-unit
-
-! 2021-12-26 https://indianexpress.com
 indianexpress.com##.top-ads-amp
-
-! 2021-12-26 https://www.livemint.com
 www.livemint.com##.openinApp
-
-! 2021-12-26 https://www.pinkvilla.com
 www.pinkvilla.com##.ad-heder-320-50
 www.pinkvilla.com##.amp-article-footer.sharing-section
 www.pinkvilla.com##.fe.bodyads
 www.pinkvilla.com##.taboola-ads
-
-! 2021-12-26 https://auto.hindustantimes.com
 auto.hindustantimes.com##.amp-adsheight.adHolder
-
-! 2021-12-26 https://www.archdaily.com
 www.archdaily.com##.kth-toast--bottom.kth-toast
 www.archdaily.com###js-afd-nav
-
-! 2021-12-26 https://kalingatv.com
 kalingatv.com##.header-inner
-
-! 2021-12-26 https://www.newsnext.live
 www.newsnext.live##.onesignal-popup_wrapper
 www.newsnext.live##.ss-ic.s_stk
-
-! 2021-12-26 https://m.timesofindia.com
 m.timesofindia.com##.notification_wrapper
 m.timesofindia.com##.floatingoneapp
 m.timesofindia.com##.scroll_bottom
 m.timesofindia.com##.menu_bottom
-
-! 2021-12-26 https://www.architecturaldigest.in
 www.architecturaldigest.in##.i-amphtml-unresolved
-
-! 2021-12-26 https://tech.hindustantimes.com
 tech.hindustantimes.com##.adsHeight300x250
 tech.hindustantimes.com##.FirstAd
 tech.hindustantimes.com##.bottomStickyAds
-
-! 2021-12-26 https://m.economictimes.com
 m.economictimes.com##.amazon_affi
-
-! 2021-12-26 https://www.moneycontrol.com
 www.moneycontrol.com###download_app_banner_btn
 www.moneycontrol.com##.pushbtn.align-center-button
 www.moneycontrol.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com###amp_float_whtsapp
-
-! 2021-12-26 https://www.dnaindia.com
 www.dnaindia.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://www.koimoi.com
 www.koimoi.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://science.thewire.in
 science.thewire.in###wpfront-notification-bar-table
 science.thewire.in###scroll_to_top
-
-! 2021-12-26 https://yourstory.com
 yourstory.com###login-popup
-
-! 2021-12-26 https://www.digitalcameraworld.com
 www.digitalcameraworld.com###taboola-mobile-below-article-thumbnails
-
-! 2021-12-26 https://www.bloombergquint.com
 www.bloombergquint.com##amp-subscriptions-dialog
 www.bloombergquint.com##.social-share-icons
-
-! 2021-12-26 https://www.gizmochina.com
 www.gizmochina.com##.post_td_gallery
-
-! 2021-12-26 https://www.zoomtventertainment.com
 www.zoomtventertainment.com##.i-amphtml-unresolved
-
-! 2021-12-26 https://www.ndtv.com
 www.ndtv.com###jiosaavn-widget
-
-! 2021-12-26 https://www.gadgetsnow.com
 www.gadgetsnow.com##._1K0SJ._2AICs._3qUot
-
-! 2021-12-26 https://www.livemint.com
 www.livemint.com##.amp-push-notification
 

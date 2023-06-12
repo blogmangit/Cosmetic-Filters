@@ -1,5 +1,5 @@
-www.google.com##.FSIemd
-www.google.com###taw
+https://www.google.com##.FSIemd
+https://www.google.com###taw
 ###jiosaavn-widget
 ##.jiosaavn
 ##.jiowidget
